@@ -1,0 +1,15 @@
+{
+  "name": "bookster/addon-paypal",
+  "minimum-stability": "dev",
+  "prefer-dist": true,
+  "optimize-autoloader": true,
+  "require": {
+    "php": ">=7.0"
+  },
+  "config": {},
+  "autoload": {
+    "psr-4": {
+      "Bookster_Paypal\\": "src/"
+    }
+  }
+}

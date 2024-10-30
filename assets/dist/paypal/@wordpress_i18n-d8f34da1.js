@@ -1,0 +1,1 @@
+function o(o){return o&&o.__esModule&&Object.prototype.hasOwnProperty.call(o,"default")?o.default:o}var s=React;const e=o(s);var t=booksterModules.hooks,a=booksterModules.components,r=booksterModules.icons,n=wp.i18n;export{e as R,a as _,n as a,r as b,t as c,s as r};

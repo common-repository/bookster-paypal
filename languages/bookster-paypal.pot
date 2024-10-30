@@ -1,0 +1,89 @@
+# Copyright (C) 2024 WPBookster
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookster Paypal 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bookster-paypal\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-26T08:09:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: bookster-paypal\n"
+
+#. Plugin Name of the plugin
+msgid "Bookster Paypal"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpbookster.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Official Bookster Paypal addon - Intergrate Paypal Payment to your Bookings."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPBookster"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpbookster.com/about"
+msgstr ""
+
+#: bookster-paypal.php:78
+msgid "\"Bookster - Paypal\" requires Bookster plugin installed and activated."
+msgstr ""
+
+#. translators: %1$s - Bookster Paypal Version. %2$s - Minimum Supporting Bookster Version
+#: bookster-paypal.php:93
+msgid "\"Bookster - Paypal %1$s\" requires Bookster version %2$s. Please update Bookster plugin!"
+msgstr ""
+
+#. translators: %s - Bookster Version
+#: bookster-paypal.php:116
+msgid "\"Bookster %s\" requires new addon version. Please update Bookster Paypal!"
+msgstr ""
+
+#: src/Engine/PaypalSettings.php:59
+msgid "Settings"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Paypal"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Sandbox or Live Mode"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Live Client Id"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Please enter the Client Id"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Sandbox Client Id"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Live Client Secret"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Please enter the Client Secret"
+msgstr ""
+
+#: assets/dist/paypal/admin.js:1
+msgid "Sandbox Client Secret"
+msgstr ""
+
+#: assets/dist/paypal/frontend.js:1
+msgid "Booking your Appointment!"
+msgstr ""
